@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+# Browser Interface
+This is just a redsigned interface for the home/new tap page, currenlty only supporting google's text search. You can also add shortcuts and it's automatically fetchs the icon and title "if you didn't provide one".
+
 ## Getting Started
 
 First, run the development server:
