@@ -6,11 +6,11 @@ export default function SearchBox() {
   return (
     <div className=" flex flex-col items-center gap-6">
       <ImgLoader
-        styles="  w-60 pointer-events-none select-none"
+        styles="w-60 pointer-events-none select-none"
         title="google"
         img="/google.png"
         priority={false}
-        loadStyle=""
+        loadStyle="w-60 pointer-events-none select-none"
       />
       <form
         action="https://google.com/search"
